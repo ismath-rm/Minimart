@@ -85,6 +85,9 @@ DATABASES = {
         'PASSWORD': config('PASSWORD'),
         'HOST': config('HOST'),
         'PORT': config('PORT'),
+        'OPTIONS': {
+            'sslmode': 'require',  # Required for AWS RDS SSL
+        },
 
     },
     
