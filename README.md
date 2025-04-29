@@ -38,4 +38,4 @@ This project focuses on refactoring the **MiniMart Django backend system**, impl
 Clone this repository to your local machine:
 
 git clone https://github.com/ismath-rm/Minimart.git
-cd MiniMart
+cd minimart_project
